@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\WebApi.Entities\WebApi.Entities.csproj" />
+    <ProjectReference Include="..\WebApi.Entities\EsqueletoInercyaApi.Entities.csproj" />
   </ItemGroup>
 
 </Project>
